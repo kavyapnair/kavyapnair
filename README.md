@@ -4,6 +4,7 @@
 # ( b.) List out the contents of your current directory
 # ( c.) List out the contents of your current directory including hidden files
   ANS:
+  
     ![image](https://user-images.githubusercontent.com/128279550/226404673-a15694e3-9f3d-478c-95ac-9979d4cfbd4a.png)
 
 # 2.
@@ -15,6 +16,7 @@
 # ( f.) Display the contents of “file1”
 # ( g.) Display the file type of “file1” again
   ANS:
+  
   ![image](https://user-images.githubusercontent.com/128279550/226413791-d9e4e9bd-fd70-4d33-b793-26eaed6ab38d.png)
 
 # 3.
