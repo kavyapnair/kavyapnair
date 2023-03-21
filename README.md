@@ -5,7 +5,8 @@
 # ( c.) List out the contents of your current directory including hidden files
   ANS:
   
-    ![image](https://user-images.githubusercontent.com/128279550/226404673-a15694e3-9f3d-478c-95ac-9979d4cfbd4a.png)
+    
+   ![image](https://user-images.githubusercontent.com/128279550/226404673-a15694e3-9f3d-478c-95ac-9979d4cfbd4a.png)
 
 # 2.
 # ( a.) Create a new directory named a
